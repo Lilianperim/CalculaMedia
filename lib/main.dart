@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Tarefa final D2DM1',
-      home: NotaMedia(),
+      home: GradeMedia(),
     );
   }
 }
